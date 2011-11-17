@@ -1,0 +1,6 @@
+classes   opt/kohana3.2/modules/minion
+tests     opt/kohana3.2/modules/minion
+views     opt/kohana3.2/modules/minion
+init.php  opt/kohana3.2/modules/minion
+minion    opt/kohana3.2/modules/minion
+miniond   opt/kohana3.2/modules/minion
